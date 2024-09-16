@@ -1,7 +1,7 @@
 # Python
 - python is a dynamic language and it has interpreter so it is a interpreter language(line by line code)
-- it is not a compile language
-- superset of python is mojo as typescript is superset of javascript
+- It is not a compile language
+- Superset of python is **Mojo** as typescript is superset of javascript
 
 
 ## How to make enviroment in VScode by the help of Anaconda
